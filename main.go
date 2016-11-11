@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/masahide/memcachedump/memcache"
+	"github.com/cicerocomp/memcachedump/memcache"
 )
 
 var (
